@@ -28,4 +28,6 @@ MIT
 
 ## Author Information
 
+Email: tsengel.de@gmail.com
+
 This role was created by Tsengel-de.
