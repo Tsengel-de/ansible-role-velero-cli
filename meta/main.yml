@@ -1,6 +1,6 @@
 galaxy_info:
-  author: tsengel-de
-  namespace: tsengel-de
+  author: Tsengel-de
+  namespace: Tsengel-de
   description: Role for velero-cli
   license: MIT
   min_ansible_version: '2.9'
