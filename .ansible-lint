@@ -1,0 +1,21 @@
+---
+skip_list:
+  - role-name
+  - yaml[indentation]
+  - yaml[trailing-spaces]
+  - yaml[line-length]
+  - no-changed-when
+  - risky-shell-pipe
+  - risky-file-permissions
+  - internal-error
+  - meta-no-info
+  - name[play]
+  - name[role]
+  - name[task]
+  - meta-video
+  - var-naming[no-role-prefix]
+  - fqcn
+  - yaml
+  - name
+  - schema
+  - no-handler
